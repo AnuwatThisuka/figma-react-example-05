@@ -1,6 +1,7 @@
 import React from "react";
 import "./Banner.css";
 import Hero from "../assets/image/Hero.svg";
+
 function Banner() {
    return (
       <div className="banner">
