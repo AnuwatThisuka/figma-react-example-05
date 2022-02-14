@@ -7,7 +7,7 @@ function Navbar() {
          <div className="navbar-container">
             <div className="logo">
                <li>
-                  <a href="#Somthing">Noé</a>
+                  <a href="#Somthing">Anuwat</a>
                </li>
             </div>
             <div className="items-nav-con">

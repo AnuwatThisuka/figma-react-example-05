@@ -11,7 +11,7 @@ function Banner() {
                      <p>Hello, I’m</p>
                   </div>
                   <div className="username">
-                     <p>Noé Crozat </p>
+                     <p>Anuwat</p>
                   </div>
                   <div className="skill">
                      <p>Ui/Ux Designer</p>
