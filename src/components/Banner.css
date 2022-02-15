@@ -5,7 +5,7 @@
 }
 .banner-container {
     max-width: 925px;
-    height: 550px;
+    height: 100vh;
     margin: 0 auto;
     display: flex;
     justify-content: center;
