@@ -9,7 +9,7 @@
 }
 .port-con-main {
     width: 1000px;
-    height: 700px;
+    height: 100vh;
     display: flex;
     justify-content:center;
     align-items:center;
